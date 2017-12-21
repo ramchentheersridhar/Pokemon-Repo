@@ -1,0 +1,27 @@
+Fire-type Pokemon Strengths and Weaknesses
+Effective Against: Steel, Bug, Ice, Grass
+Weak Against: Rock, Water, Ground
+Water-type Strengths and Weaknesses
+Effective Against: Fire, Ground, Rock
+Weak Against: Electric, Grass
+Grass-type Pokemon Strengths and Weaknesses
+Effective Against: Water, Ground Rock
+Weak Against: Fire, Ice, Poison, Flying, Bug
+Electric-type Pokemon Strengths and Weaknesses
+Effective Against: Water, Flying
+Weak Against: Ground
+Normal-type Pokemon Strengths and Weaknesses
+Effective Against: None
+Weak Against: Fighting
+Ground-type Pokemon Strengths and Weaknesses
+Effective Against: Fire, Electric, Poison, Rock, Steel
+Weak Against: Water, Grass, Ice
+Rock-type Pokemon Strengths and Weaknesses
+Effective Against: Fire, Ice, Flying, Bug
+Weak Against: Water, Grass, Fighting, Ground, Steel
+Fighting-type Strengths and Weaknesses
+Effective Against: Normal, Ice, Rock, Dark, Steel
+Weak Against: Flying, Psychic, Fairy
+Ice-type Pokemon Strengths and Weaknesses
+Effective Against: Grass, Ground, Flying, Dragon
+Weak Against: Fire, Fighting, Rock, Steel
